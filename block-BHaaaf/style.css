@@ -1,0 +1,11 @@
+body {
+    background-color: cadetblue;
+}
+.heading {
+    font-size: 36;
+    color:#b8860b
+}
+#paragraph {
+    font-size: 24;
+    color: darkgreen;
+}
